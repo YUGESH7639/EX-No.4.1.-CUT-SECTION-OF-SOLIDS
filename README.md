@@ -1,5 +1,7 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
 ## DATE:16-05-2026
+## NAME:YUGESH M
+## REG.NO:212224040376
 
 ## AIM
 To create the solid model from given drawing and section the solid model
